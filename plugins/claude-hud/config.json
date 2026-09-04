@@ -18,7 +18,10 @@
     "showSessionTokens": true,
     "showSkills": true,
     "showMcp": true,
-    "showAddedDirs": true
+    "showAddedDirs": true,
+    "showEffortLevel": true,
+    "showMemoryUsage": true,
+    "showPromptCache": true
   },
   "gitStatus": {
     "enabled": true,
