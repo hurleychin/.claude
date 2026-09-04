@@ -13,6 +13,7 @@
     "showUsage": true,
     "usageBarEnabled": true,
     "usageCompact": true,
+    "showResetLabel": true,
     "showDuration": true,
     "showSessionName": true,
     "showSessionTokens": true,
@@ -21,12 +22,23 @@
     "showAddedDirs": true,
     "showEffortLevel": true,
     "showMemoryUsage": true,
-    "showPromptCache": true
+    "showPromptCache": true,
+    "showCost": true,
+    "showRoutedCost": true,
+    "showOutputStyle": true,
+    "showClaudeCodeVersion": true,
+    "showCompactions": true,
+    "showAdvisor": true
   },
   "gitStatus": {
     "enabled": true,
-    "showDirty": false,
+    "showDirty": true,
     "showAheadBehind": false,
     "showFileStats": false
+  },
+  "jjStatus": {
+    "enabled": true,
+    "showDirty": true,
+    "showConflicts": true
   }
 }
