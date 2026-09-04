@@ -7,14 +7,10 @@
     "showAgents": true,
     "showTodos": true,
     "showProject": true,
+    "showDuration": true,
     "showConfigCounts": true,
     "showTokenBreakdown": true,
     "showSpeed": true,
-    "showUsage": true,
-    "usageBarEnabled": true,
-    "usageCompact": true,
-    "showResetLabel": true,
-    "showDuration": true,
     "showSessionName": true,
     "showSessionTokens": true,
     "showSkills": true,
@@ -22,13 +18,17 @@
     "showAddedDirs": true,
     "showEffortLevel": true,
     "showMemoryUsage": true,
-    "showPromptCache": true,
-    "showCost": true,
-    "showRoutedCost": true,
-    "showOutputStyle": true,
-    "showClaudeCodeVersion": true,
-    "showCompactions": true,
-    "showAdvisor": true
+    "showPromptCache": false,
+    "showUsage": false,
+    "usageBarEnabled": true,
+    "usageCompact": true,
+    "showResetLabel": true,
+    "showCost": false,
+    "showRoutedCost": false,
+    "showOutputStyle": false,
+    "showClaudeCodeVersion": false,
+    "showCompactions": false,
+    "showAdvisor": false
   },
   "gitStatus": {
     "enabled": true,
@@ -37,7 +37,7 @@
     "showFileStats": false
   },
   "jjStatus": {
-    "enabled": true,
+    "enabled": false,
     "showDirty": true,
     "showConflicts": true
   }
